@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <title>Jess' Dreamcast</title>
+  <description>For my beautiful bunny, with love and good tidings.</description>
+  <language>en-us</language>
+<itunes:block>Yes</itunes:block>
+
+  <itunes:image href="https://drive.google.com/file/d/10F5Le3T7oHF0jlzUwlpYY1npBbsk34w2/view?usp=share_link"/>
+  <itunes:author>Tim Grey</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+
+  <item>
+    <title>Face down, shoulders sinking</title>
+    <enclosure url="https://drive.google.com/file/d/1c9Io18LCPZeIPlV0syLBWsEDO-uXi9Ot/view?usp=share_link"
+               length="0"
+               type="audio/mp4"/>
+    <guid>AUDIO_ID_1</guid>
+  </item>
+
+  <item>
+    <title>Hand on the belly breathing</title>
+    <enclosure url="https://drive.google.com/file/d/1MgErs6ua4Fgzhw_k80750BCFkiRHqPHV/view?usp=share_link"
+               length="0"
+               type="audio/mp4"/>
+    <guid>AUDIO_ID_2</guid>
+  </item>
+
+  <item>
+    <title>Shoulders and jaw melting</title>
+    <enclosure url="https://drive.google.com/file/d/1BOJZjzoOp_G_sTxC_t4Pfeg3_UwJkPFP/view?usp=share_link"
+               length="0"
+               type="audio/mp4"/>
+    <guid>AUDIO_ID_3</guid>
+  </item>
+
+  <item>
+    <title>BONUS EPISODE: Jemima the Giraffe</title>
+    <enclosure url="https://drive.google.com/file/d/1dTVWR15Go7tsSGrgZ1Fgew5mOz_WhKGr/view?usp=share_link"
+               length="0"
+               type="audio/mp4"/>
+    <guid>AUDIO_ID_4</guid>
+  </item>
+
+</channel>
+</rss>
